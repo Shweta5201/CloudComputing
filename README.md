@@ -33,9 +33,13 @@ http://ec2-34-229-87-148.compute-1.amazonaws.com:50070/explorer.html#/user/WordC
 
 Details of my aws machines:
 172.31.7.97   ec2-34-229-87-148.compute-1.amazonaws.com  namenode
+
 172.31.13.86  ec2-34-207-205-213.compute-1.amazonaws.com  datanode1
+
 172.31.3.203  ec2-34-204-49-78.compute-1.amazonaws.com	datanode2
+
 172.31.4.162  ec2-34-229-94-160.compute-1.amazonaws.com	datanode3
+
 
 Link for browsing hdfs:
 http://ec2-34-229-87-148.compute-1.amazonaws.com:50070/dfshealth.html#tab-startup-progress
